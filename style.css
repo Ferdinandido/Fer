@@ -2,7 +2,19 @@ p {
     text-align: center;
 }
 
+#missao {
+    font-size: 20px
+}
+
+h1 {
+    text-align: center
+}
+
 body {
     
     background: #CCCCCC
+}
+
+em strong {
+    color: #FF0000;
 }
